@@ -1,12 +1,3 @@
-Sure, here is the updated
-
-README.md
-
- with additional information on where to download MSYS2 and MinGW:
-
-```markdown
-
-
 # C PROGRAMMING LANGUAGE
 
 ## C Overview
